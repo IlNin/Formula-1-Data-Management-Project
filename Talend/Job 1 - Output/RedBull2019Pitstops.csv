@@ -1,0 +1,66 @@
+pilot;race;race_date;stop;lap;duration_in_ms
+"Max";"Australian Grand Prix";"2019-03-17";1;25;21157
+"Pierre";"Australian Grand Prix";"2019-03-17";1;37;21269
+"Pierre";"Bahrain Grand Prix";"2019-03-31";1;9;27557
+"Max";"Bahrain Grand Prix";"2019-03-31";1;11;24199
+"Max";"Bahrain Grand Prix";"2019-03-31";2;32;26729
+"Pierre";"Bahrain Grand Prix";"2019-03-31";2;39;24484
+"Max";"Chinese Grand Prix";"2019-04-14";1;17;23223
+"Pierre";"Chinese Grand Prix";"2019-04-14";1;19;22301
+"Max";"Chinese Grand Prix";"2019-04-14";2;34;22365
+"Pierre";"Chinese Grand Prix";"2019-04-14";2;39;22722
+"Pierre";"Chinese Grand Prix";"2019-04-14";3;53;22408
+"Max";"Azerbaijan Grand Prix";"2019-04-28";1;14;20973
+"Max";"Spanish Grand Prix";"2019-05-12";1;20;22417
+"Pierre";"Spanish Grand Prix";"2019-05-12";1;22;22563
+"Max";"Spanish Grand Prix";"2019-05-12";2;43;22540
+"Pierre";"Spanish Grand Prix";"2019-05-12";2;46;22095
+"Max";"Monaco Grand Prix";"2019-05-26";1;11;24011
+"Pierre";"Monaco Grand Prix";"2019-05-26";1;27;24161
+"Pierre";"Monaco Grand Prix";"2019-05-26";2;62;23858
+"Pierre";"Canadian Grand Prix";"2019-06-09";1;7;23485
+"Max";"Canadian Grand Prix";"2019-06-09";1;48;23426
+"Pierre";"French Grand Prix";"2019-06-23";1;17;30228
+"Max";"French Grand Prix";"2019-06-23";1;20;30118
+"Pierre";"Austrian Grand Prix";"2019-06-30";1;25;22239
+"Max";"Austrian Grand Prix";"2019-06-30";1;31;21110
+"Pierre";"British Grand Prix";"2019-07-14";1;12;27905
+"Max";"British Grand Prix";"2019-07-14";1;13;27827
+"Max";"British Grand Prix";"2019-07-14";2;20;27950
+"Max";"German Grand Prix";"2019-07-28";1;3;22358
+"Pierre";"German Grand Prix";"2019-07-28";1;3;29667
+"Max";"German Grand Prix";"2019-07-28";2;25;19640
+"Pierre";"German Grand Prix";"2019-07-28";2;26;19875
+"Pierre";"German Grand Prix";"2019-07-28";3;28;20552
+"Max";"German Grand Prix";"2019-07-28";3;29;21472
+"Max";"German Grand Prix";"2019-07-28";4;41;19327
+"Max";"German Grand Prix";"2019-07-28";5;46;19062
+"Pierre";"German Grand Prix";"2019-07-28";4;46;20012
+"Max";"Hungarian Grand Prix";"2019-08-04";1;25;21705
+"Pierre";"Hungarian Grand Prix";"2019-08-04";1;28;22104
+"Max";"Hungarian Grand Prix";"2019-08-04";2;67;21164
+"Alexander";"Belgian Grand Prix";"2019-09-01";1;23;22506
+"Max";"Italian Grand Prix";"2019-09-08";1;1;31211
+"Alexander";"Italian Grand Prix";"2019-09-08";1;26;29830
+"Max";"Italian Grand Prix";"2019-09-08";2;27;24303
+"Max";"Singapore Grand Prix";"2019-09-22";1;19;28846
+"Alexander";"Singapore Grand Prix";"2019-09-22";1;20;28606
+"Max";"Russian Grand Prix";"2019-09-29";1;28;29978
+"Alexander";"Russian Grand Prix";"2019-09-29";1;29;29854
+"Alexander";"Japanese Grand Prix";"2019-10-13";1;15;23354
+"Alexander";"Japanese Grand Prix";"2019-10-13";2;34;23301
+"Max";"Mexican Grand Prix";"2019-10-27";1;5;24493
+"Alexander";"Mexican Grand Prix";"2019-10-27";1;14;22192
+"Alexander";"Mexican Grand Prix";"2019-10-27";2;44;22003
+"Alexander";"United States Grand Prix";"2019-11-03";1;1;34100
+"Max";"United States Grand Prix";"2019-11-03";1;13;23716
+"Alexander";"United States Grand Prix";"2019-11-03";2;20;23213
+"Max";"United States Grand Prix";"2019-11-03";2;34;23444
+"Alexander";"United States Grand Prix";"2019-11-03";3;40;23705
+"Max";"Brazilian Grand Prix";"2019-11-17";1;21;22818
+"Alexander";"Brazilian Grand Prix";"2019-11-17";1;24;23073
+"Max";"Brazilian Grand Prix";"2019-11-17";2;44;22657
+"Alexander";"Brazilian Grand Prix";"2019-11-17";2;50;23071
+"Max";"Brazilian Grand Prix";"2019-11-17";3;54;22593
+"Alexander";"Abu Dhabi Grand Prix";"2019-12-01";1;13;22028
+"Max";"Abu Dhabi Grand Prix";"2019-12-01";1;25;21023

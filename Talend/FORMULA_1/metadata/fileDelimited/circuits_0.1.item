@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_H42AsJqlEeqjGYnprvnn_A" name="circuits" id="_H40ykJqlEeqjGYnprvnn_A" dataPackage="_H42AsZqlEeqjGYnprvnn_A" Server="Localhost 127.0.0.1" FilePath="C:/Talend/TOS_DI-Win32-20200219_1130-V7.3.1/workspace/formula-1-world-championship-1950-2020/circuits.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_H42AsZqlEeqjGYnprvnn_A" name="default" dataManager="_H42AsJqlEeqjGYnprvnn_A">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_H42AspqlEeqjGYnprvnn_A" id="_-Ypc0JqkEeqjGYnprvnn_A" label="circuitsSchema">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H42As5qlEeqjGYnprvnn_A" label="circuitId" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H42AtJqlEeqjGYnprvnn_A" label="circuitRef" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H42AtZqlEeqjGYnprvnn_A" label="name" length="40" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H42AtpqlEeqjGYnprvnn_A" label="location" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H42At5qlEeqjGYnprvnn_A" label="country" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H42AuJqlEeqjGYnprvnn_A" label="lat" length="8" precision="6" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H42AuZqlEeqjGYnprvnn_A" label="lng" length="9" precision="8" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H42AupqlEeqjGYnprvnn_A" label="alt" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H42Au5qlEeqjGYnprvnn_A" label="url" length="71" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

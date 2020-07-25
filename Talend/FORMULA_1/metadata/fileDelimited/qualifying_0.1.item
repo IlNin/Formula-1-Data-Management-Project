@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_pnPrUK-pEeqIX8oeuy-Y7g" name="qualifying" dataPackage="_pnPrUa-pEeqIX8oeuy-Y7g" Server="Localhost 127.0.0.1" FilePath="C:/Talend/TOS_DI-Win32-20200219_1130-V7.3.1/workspace/formula-1-world-championship-1950-2020/qualifying.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_pnPrUa-pEeqIX8oeuy-Y7g" name="default" dataManager="_pnPrUK-pEeqIX8oeuy-Y7g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_pnPrUq-pEeqIX8oeuy-Y7g" id="_hdCC8K-pEeqIX8oeuy-Y7g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pnPrU6-pEeqIX8oeuy-Y7g" label="qualifyId" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pnPrVK-pEeqIX8oeuy-Y7g" label="raceId" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pnPrVa-pEeqIX8oeuy-Y7g" label="driverId" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pnPrVq-pEeqIX8oeuy-Y7g" label="constructorId" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pnPrV6-pEeqIX8oeuy-Y7g" label="number" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pnPrWK-pEeqIX8oeuy-Y7g" label="position" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pnPrWa-pEeqIX8oeuy-Y7g" label="q1" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pnPrWq-pEeqIX8oeuy-Y7g" label="q2" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pnPrW6-pEeqIX8oeuy-Y7g" label="q3" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

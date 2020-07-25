@@ -1,0 +1,241 @@
+race;date;year;surname;lap;time
+"Australian Grand Prix";"2014-03-16";2014;"Rosberg";19;01:32.478
+"Australian Grand Prix";"2014-03-16";2014;"Hamilton";2;01:49.947
+"Malaysian Grand Prix";"2014-03-30";2014;"Hamilton";53;01:43.066
+"Malaysian Grand Prix";"2014-03-30";2014;"Rosberg";55;01:43.960
+"Bahrain Grand Prix";"2014-04-06";2014;"Hamilton";49;01:37.108
+"Bahrain Grand Prix";"2014-04-06";2014;"Rosberg";49;01:37.020
+"Chinese Grand Prix";"2014-04-20";2014;"Hamilton";42;01:41.196
+"Chinese Grand Prix";"2014-04-20";2014;"Rosberg";39;01:40.402
+"Spanish Grand Prix";"2014-05-11";2014;"Hamilton";54;01:29.483
+"Spanish Grand Prix";"2014-05-11";2014;"Rosberg";51;01:29.236
+"Monaco Grand Prix";"2014-05-25";2014;"Rosberg";33;01:19.425
+"Monaco Grand Prix";"2014-05-25";2014;"Hamilton";34;01:19.361
+"Canadian Grand Prix";"2014-06-08";2014;"Rosberg";33;01:18.881
+"Canadian Grand Prix";"2014-06-08";2014;"Hamilton";24;01:18.942
+"Austrian Grand Prix";"2014-06-22";2014;"Rosberg";50;01:12.598
+"Austrian Grand Prix";"2014-06-22";2014;"Hamilton";41;01:12.217
+"British Grand Prix";"2014-07-06";2014;"Hamilton";26;01:37.176
+"British Grand Prix";"2014-07-06";2014;"Rosberg";26;01:38.091
+"German Grand Prix";"2014-07-20";2014;"Rosberg";67;01:21.298
+"German Grand Prix";"2014-07-20";2014;"Hamilton";53;01:19.908
+"Hungarian Grand Prix";"2014-07-27";2014;"Hamilton";36;01:27.380
+"Hungarian Grand Prix";"2014-07-27";2014;"Rosberg";64;01:25.724
+"Belgian Grand Prix";"2014-08-24";2014;"Rosberg";36;01:50.511
+"Belgian Grand Prix";"2014-08-24";2014;"Hamilton";33;01:53.707
+"Italian Grand Prix";"2014-09-07";2014;"Hamilton";29;01:28.004
+"Italian Grand Prix";"2014-09-07";2014;"Rosberg";51;01:28.206
+"Singapore Grand Prix";"2014-09-21";2014;"Hamilton";39;01:50.417
+"Singapore Grand Prix";"2014-09-21";2014;"Rosberg";5;01:56.769
+"Japanese Grand Prix";"2014-10-05";2014;"Hamilton";39;01:51.600
+"Japanese Grand Prix";"2014-10-05";2014;"Rosberg";15;01:52.551
+"Russian Grand Prix";"2014-10-12";2014;"Hamilton";48;01:41.606
+"Russian Grand Prix";"2014-10-12";2014;"Rosberg";52;01:41.360
+"United States Grand Prix";"2014-11-02";2014;"Hamilton";49;01:41.929
+"United States Grand Prix";"2014-11-02";2014;"Rosberg";48;01:41.932
+"Brazilian Grand Prix";"2014-11-09";2014;"Rosberg";62;01:13.619
+"Brazilian Grand Prix";"2014-11-09";2014;"Hamilton";62;01:13.555
+"Abu Dhabi Grand Prix";"2014-11-23";2014;"Hamilton";49;01:45.599
+"Abu Dhabi Grand Prix";"2014-11-23";2014;"Rosberg";17;01:46.869
+"Australian Grand Prix";"2015-03-15";2015;"Hamilton";50;01:30.945
+"Australian Grand Prix";"2015-03-15";2015;"Rosberg";47;01:31.092
+"Malaysian Grand Prix";"2015-03-29";2015;"Hamilton";45;01:43.125
+"Malaysian Grand Prix";"2015-03-29";2015;"Rosberg";43;01:42.062
+"Chinese Grand Prix";"2015-04-12";2015;"Hamilton";31;01:42.208
+"Chinese Grand Prix";"2015-04-12";2015;"Rosberg";39;01:42.565
+"Bahrain Grand Prix";"2015-04-19";2015;"Hamilton";38;01:37.857
+"Bahrain Grand Prix";"2015-04-19";2015;"Rosberg";36;01:37.326
+"Spanish Grand Prix";"2015-05-10";2015;"Rosberg";53;01:29.109
+"Spanish Grand Prix";"2015-05-10";2015;"Hamilton";54;01:28.270
+"Monaco Grand Prix";"2015-05-24";2015;"Rosberg";76;01:18.599
+"Monaco Grand Prix";"2015-05-24";2015;"Hamilton";42;01:18.676
+"Canadian Grand Prix";"2015-06-07";2015;"Hamilton";64;01:17.472
+"Canadian Grand Prix";"2015-06-07";2015;"Rosberg";63;01:17.637
+"Austrian Grand Prix";"2015-06-21";2015;"Rosberg";35;01:11.235
+"Austrian Grand Prix";"2015-06-21";2015;"Hamilton";60;01:11.475
+"British Grand Prix";"2015-07-05";2015;"Hamilton";29;01:37.093
+"British Grand Prix";"2015-07-05";2015;"Rosberg";24;01:37.403
+"Hungarian Grand Prix";"2015-07-26";2015;"Hamilton";68;01:25.727
+"Hungarian Grand Prix";"2015-07-26";2015;"Rosberg";68;01:25.149
+"Belgian Grand Prix";"2015-08-23";2015;"Hamilton";34;01:52.504
+"Belgian Grand Prix";"2015-08-23";2015;"Rosberg";34;01:52.416
+"Italian Grand Prix";"2015-09-06";2015;"Hamilton";48;01:26.672
+"Italian Grand Prix";"2015-09-06";2015;"Rosberg";43;01:27.067
+"Singapore Grand Prix";"2015-09-20";2015;"Rosberg";50;01:50.934
+"Singapore Grand Prix";"2015-09-20";2015;"Hamilton";24;01:52.505
+"Japanese Grand Prix";"2015-09-27";2015;"Hamilton";33;01:36.145
+"Japanese Grand Prix";"2015-09-27";2015;"Rosberg";31;01:37.147
+"Russian Grand Prix";"2015-10-11";2015;"Hamilton";44;01:40.573
+"Russian Grand Prix";"2015-10-11";2015;"Rosberg";6;01:43.133
+"United States Grand Prix";"2015-10-25";2015;"Hamilton";48;01:40.738
+"United States Grand Prix";"2015-10-25";2015;"Rosberg";49;01:40.666
+"Mexican Grand Prix";"2015-11-01";2015;"Rosberg";67;01:20.521
+"Mexican Grand Prix";"2015-11-01";2015;"Hamilton";67;01:20.723
+"Brazilian Grand Prix";"2015-11-15";2015;"Rosberg";57;01:14.957
+"Brazilian Grand Prix";"2015-11-15";2015;"Hamilton";51;01:14.832
+"Abu Dhabi Grand Prix";"2015-11-29";2015;"Rosberg";37;01:45.356
+"Abu Dhabi Grand Prix";"2015-11-29";2015;"Hamilton";44;01:44.517
+"Australian Grand Prix";"2016-03-20";2016;"Rosberg";21;01:30.557
+"Australian Grand Prix";"2016-03-20";2016;"Hamilton";48;01:30.646
+"Bahrain Grand Prix";"2016-04-03";2016;"Rosberg";41;01:34.482
+"Bahrain Grand Prix";"2016-04-03";2016;"Hamilton";43;01:34.677
+"Chinese Grand Prix";"2016-04-17";2016;"Rosberg";38;01:40.418
+"Chinese Grand Prix";"2016-04-17";2016;"Hamilton";32;01:40.662
+"Russian Grand Prix";"2016-05-01";2016;"Rosberg";52;01:39.094
+"Russian Grand Prix";"2016-05-01";2016;"Hamilton";36;01:40.266
+"Monaco Grand Prix";"2016-05-29";2016;"Hamilton";71;01:17.939
+"Monaco Grand Prix";"2016-05-29";2016;"Rosberg";74;01:18.763
+"Canadian Grand Prix";"2016-06-12";2016;"Hamilton";68;01:15.981
+"Canadian Grand Prix";"2016-06-12";2016;"Rosberg";60;01:15.599
+"European Grand Prix";"2016-06-19";2016;"Rosberg";48;01:46.485
+"European Grand Prix";"2016-06-19";2016;"Hamilton";42;01:46.822
+"Austrian Grand Prix";"2016-07-03";2016;"Hamilton";67;01:08.411
+"Austrian Grand Prix";"2016-07-03";2016;"Rosberg";66;01:08.491
+"British Grand Prix";"2016-07-10";2016;"Hamilton";45;01:35.771
+"British Grand Prix";"2016-07-10";2016;"Rosberg";44;01:35.548
+"Hungarian Grand Prix";"2016-07-24";2016;"Hamilton";69;01:23.849
+"Hungarian Grand Prix";"2016-07-24";2016;"Rosberg";60;01:23.670
+"German Grand Prix";"2016-07-31";2016;"Hamilton";52;01:18.746
+"German Grand Prix";"2016-07-31";2016;"Rosberg";51;01:19.122
+"Belgian Grand Prix";"2016-08-28";2016;"Rosberg";11;01:51.746
+"Belgian Grand Prix";"2016-08-28";2016;"Hamilton";40;01:51.583
+"Italian Grand Prix";"2016-09-04";2016;"Rosberg";26;01:26.599
+"Italian Grand Prix";"2016-09-04";2016;"Hamilton";27;01:26.303
+"Singapore Grand Prix";"2016-09-18";2016;"Rosberg";38;01:50.296
+"Singapore Grand Prix";"2016-09-18";2016;"Hamilton";52;01:47.752
+"Malaysian Grand Prix";"2016-10-02";2016;"Rosberg";44;01:36.424
+"Malaysian Grand Prix";"2016-10-02";2016;"Hamilton";31;01:38.595
+"Japanese Grand Prix";"2016-10-09";2016;"Rosberg";31;01:36.049
+"Japanese Grand Prix";"2016-10-09";2016;"Hamilton";36;01:35.152
+"United States Grand Prix";"2016-10-23";2016;"Hamilton";45;01:42.386
+"United States Grand Prix";"2016-10-23";2016;"Rosberg";34;01:41.897
+"Mexican Grand Prix";"2016-10-30";2016;"Hamilton";66;01:22.596
+"Mexican Grand Prix";"2016-10-30";2016;"Rosberg";43;01:22.792
+"Brazilian Grand Prix";"2016-11-13";2016;"Hamilton";44;01:25.639
+"Brazilian Grand Prix";"2016-11-13";2016;"Rosberg";47;01:26.222
+"Abu Dhabi Grand Prix";"2016-11-27";2016;"Hamilton";37;01:45.137
+"Abu Dhabi Grand Prix";"2016-11-27";2016;"Rosberg";33;01:45.261
+"Australian Grand Prix";"2017-03-26";2017;"Hamilton";44;01:27.033
+"Australian Grand Prix";"2017-03-26";2017;"Bottas";56;01:26.593
+"Chinese Grand Prix";"2017-04-09";2017;"Hamilton";44;01:35.378
+"Chinese Grand Prix";"2017-04-09";2017;"Bottas";41;01:35.849
+"Bahrain Grand Prix";"2017-04-16";2017;"Hamilton";46;01:32.798
+"Bahrain Grand Prix";"2017-04-16";2017;"Bottas";33;01:34.087
+"Russian Grand Prix";"2017-04-30";2017;"Bottas";49;01:37.367
+"Russian Grand Prix";"2017-04-30";2017;"Hamilton";18;01:38.398
+"Spanish Grand Prix";"2017-05-14";2017;"Hamilton";64;01:23.593
+"Spanish Grand Prix";"2017-05-14";2017;"Bottas";28;01:24.696
+"Monaco Grand Prix";"2017-05-28";2017;"Bottas";22;01:16.439
+"Monaco Grand Prix";"2017-05-28";2017;"Hamilton";54;01:15.825
+"Canadian Grand Prix";"2017-06-11";2017;"Hamilton";64;01:14.551
+"Canadian Grand Prix";"2017-06-11";2017;"Bottas";65;01:15.894
+"Azerbaijan Grand Prix";"2017-06-25";2017;"Bottas";51;01:43.925
+"Azerbaijan Grand Prix";"2017-06-25";2017;"Hamilton";46;01:43.469
+"Austrian Grand Prix";"2017-07-09";2017;"Bottas";51;01:07.847
+"Austrian Grand Prix";"2017-07-09";2017;"Hamilton";69;01:07.411
+"British Grand Prix";"2017-07-16";2017;"Hamilton";48;01:30.621
+"British Grand Prix";"2017-07-16";2017;"Bottas";46;01:30.905
+"Hungarian Grand Prix";"2017-07-30";2017;"Bottas";68;01:21.214
+"Hungarian Grand Prix";"2017-07-30";2017;"Hamilton";66;01:20.818
+"Belgian Grand Prix";"2017-08-27";2017;"Hamilton";35;01:46.603
+"Belgian Grand Prix";"2017-08-27";2017;"Bottas";37;01:47.721
+"Italian Grand Prix";"2017-09-03";2017;"Hamilton";50;01:23.488
+"Italian Grand Prix";"2017-09-03";2017;"Bottas";53;01:23.488
+"Singapore Grand Prix";"2017-09-17";2017;"Hamilton";55;01:45.008
+"Singapore Grand Prix";"2017-09-17";2017;"Bottas";54;01:45.405
+"Malaysian Grand Prix";"2017-10-01";2017;"Hamilton";48;01:34.452
+"Malaysian Grand Prix";"2017-10-01";2017;"Bottas";44;01:35.284
+"Japanese Grand Prix";"2017-10-08";2017;"Hamilton";43;01:33.780
+"Japanese Grand Prix";"2017-10-08";2017;"Bottas";50;01:33.144
+"United States Grand Prix";"2017-10-22";2017;"Hamilton";48;01:38.776
+"United States Grand Prix";"2017-10-22";2017;"Bottas";54;01:37.767
+"Mexican Grand Prix";"2017-10-29";2017;"Bottas";70;01:19.374
+"Mexican Grand Prix";"2017-10-29";2017;"Hamilton";69;01:19.945
+"Brazilian Grand Prix";"2017-11-12";2017;"Bottas";58;01:12.466
+"Brazilian Grand Prix";"2017-11-12";2017;"Hamilton";63;01:11.845
+"Abu Dhabi Grand Prix";"2017-11-26";2017;"Bottas";52;01:40.650
+"Abu Dhabi Grand Prix";"2017-11-26";2017;"Hamilton";51;01:41.473
+"Australian Grand Prix";"2018-03-25";2018;"Hamilton";50;01:26.444
+"Australian Grand Prix";"2018-03-25";2018;"Bottas";54;01:27.019
+"Bahrain Grand Prix";"2018-04-08";2018;"Bottas";22;01:33.740
+"Bahrain Grand Prix";"2018-04-08";2018;"Hamilton";51;01:33.953
+"Chinese Grand Prix";"2018-04-15";2018;"Bottas";50;01:36.987
+"Chinese Grand Prix";"2018-04-15";2018;"Hamilton";20;01:36.878
+"Azerbaijan Grand Prix";"2018-04-29";2018;"Hamilton";35;01:45.412
+"Azerbaijan Grand Prix";"2018-04-29";2018;"Bottas";37;01:45.149
+"Spanish Grand Prix";"2018-05-13";2018;"Hamilton";64;01:19.133
+"Spanish Grand Prix";"2018-05-13";2018;"Bottas";56;01:19.478
+"Monaco Grand Prix";"2018-05-27";2018;"Hamilton";15;01:16.270
+"Monaco Grand Prix";"2018-05-27";2018;"Bottas";21;01:16.312
+"Canadian Grand Prix";"2018-06-10";2018;"Bottas";51;01:13.992
+"Canadian Grand Prix";"2018-06-10";2018;"Hamilton";66;01:14.183
+"French Grand Prix";"2018-06-24";2018;"Hamilton";49;01:34.509
+"French Grand Prix";"2018-06-24";2018;"Bottas";41;01:34.225
+"Austrian Grand Prix";"2018-07-01";2018;"Hamilton";58;01:07.241
+"Austrian Grand Prix";"2018-07-01";2018;"Bottas";12;01:09.044
+"British Grand Prix";"2018-07-08";2018;"Hamilton";52;01:31.245
+"British Grand Prix";"2018-07-08";2018;"Bottas";43;01:31.377
+"German Grand Prix";"2018-07-22";2018;"Hamilton";66;01:15.545
+"German Grand Prix";"2018-07-22";2018;"Bottas";65;01:15.721
+"Hungarian Grand Prix";"2018-07-29";2018;"Hamilton";63;01:21.107
+"Hungarian Grand Prix";"2018-07-29";2018;"Bottas";39;01:21.736
+"Belgian Grand Prix";"2018-08-26";2018;"Hamilton";23;01:46.721
+"Belgian Grand Prix";"2018-08-26";2018;"Bottas";32;01:46.286
+"Italian Grand Prix";"2018-09-02";2018;"Hamilton";30;01:22.497
+"Italian Grand Prix";"2018-09-02";2018;"Bottas";39;01:22.907
+"Singapore Grand Prix";"2018-09-16";2018;"Hamilton";56;01:42.913
+"Singapore Grand Prix";"2018-09-16";2018;"Bottas";42;01:44.720
+"Russian Grand Prix";"2018-09-30";2018;"Hamilton";50;01:35.916
+"Russian Grand Prix";"2018-09-30";2018;"Bottas";50;01:35.861
+"Japanese Grand Prix";"2018-10-07";2018;"Hamilton";51;01:32.785
+"Japanese Grand Prix";"2018-10-07";2018;"Bottas";46;01:33.110
+"United States Grand Prix";"2018-10-21";2018;"Hamilton";40;01:37.392
+"United States Grand Prix";"2018-10-21";2018;"Bottas";46;01:38.470
+"Mexican Grand Prix";"2018-10-28";2018;"Hamilton";49;01:20.728
+"Mexican Grand Prix";"2018-10-28";2018;"Bottas";65;01:18.741
+"Brazilian Grand Prix";"2018-11-11";2018;"Hamilton";70;01:11.795
+"Brazilian Grand Prix";"2018-11-11";2018;"Bottas";65;01:10.540
+"Abu Dhabi Grand Prix";"2018-11-25";2018;"Hamilton";53;01:41.357
+"Abu Dhabi Grand Prix";"2018-11-25";2018;"Bottas";42;01:40.953
+"Australian Grand Prix";"2019-03-17";2019;"Bottas";57;01:25.580
+"Australian Grand Prix";"2019-03-17";2019;"Hamilton";57;01:26.057
+"Bahrain Grand Prix";"2019-03-31";2019;"Hamilton";36;01:33.528
+"Bahrain Grand Prix";"2019-03-31";2019;"Bottas";42;01:34.209
+"Chinese Grand Prix";"2019-04-14";2019;"Hamilton";47;01:35.892
+"Chinese Grand Prix";"2019-04-14";2019;"Bottas";38;01:34.872
+"Azerbaijan Grand Prix";"2019-04-28";2019;"Bottas";50;01:44.024
+"Azerbaijan Grand Prix";"2019-04-28";2019;"Hamilton";48;01:44.166
+"Spanish Grand Prix";"2019-05-12";2019;"Hamilton";54;01:18.492
+"Spanish Grand Prix";"2019-05-12";2019;"Bottas";55;01:18.737
+"Monaco Grand Prix";"2019-05-26";2019;"Hamilton";9;01:16.167
+"Monaco Grand Prix";"2019-05-26";2019;"Bottas";65;01:15.163
+"Canadian Grand Prix";"2019-06-09";2019;"Hamilton";62;01:14.813
+"Canadian Grand Prix";"2019-06-09";2019;"Bottas";69;01:13.078
+"French Grand Prix";"2019-06-23";2019;"Hamilton";53;01:32.764
+"French Grand Prix";"2019-06-23";2019;"Bottas";43;01:33.586
+"Austrian Grand Prix";"2019-06-30";2019;"Bottas";53;01:08.565
+"Austrian Grand Prix";"2019-06-30";2019;"Hamilton";69;01:08.050
+"British Grand Prix";"2019-07-14";2019;"Hamilton";52;01:27.369
+"British Grand Prix";"2019-07-14";2019;"Bottas";47;01:27.406
+"German Grand Prix";"2019-07-28";2019;"Hamilton";64;01:18.811
+"German Grand Prix";"2019-07-28";2019;"Bottas";54;01:18.272
+"Hungarian Grand Prix";"2019-08-04";2019;"Hamilton";60;01:18.528
+"Hungarian Grand Prix";"2019-08-04";2019;"Bottas";59;01:19.331
+"Belgian Grand Prix";"2019-09-01";2019;"Hamilton";24;01:46.580
+"Belgian Grand Prix";"2019-09-01";2019;"Bottas";27;01:46.465
+"Italian Grand Prix";"2019-09-08";2019;"Bottas";47;01:22.859
+"Italian Grand Prix";"2019-09-08";2019;"Hamilton";51;01:21.779
+"Singapore Grand Prix";"2019-09-22";2019;"Hamilton";58;01:44.914
+"Singapore Grand Prix";"2019-09-22";2019;"Bottas";58;01:43.534
+"Russian Grand Prix";"2019-09-29";2019;"Hamilton";51;01:35.761
+"Russian Grand Prix";"2019-09-29";2019;"Bottas";50;01:36.316
+"Japanese Grand Prix";"2019-10-13";2019;"Bottas";49;01:31.862
+"Japanese Grand Prix";"2019-10-13";2019;"Hamilton";45;01:30.983
+"Mexican Grand Prix";"2019-10-27";2019;"Hamilton";66;01:19.461
+"Mexican Grand Prix";"2019-10-27";2019;"Bottas";66;01:19.494
+"United States Grand Prix";"2019-11-03";2019;"Bottas";37;01:36.957
+"United States Grand Prix";"2019-11-03";2019;"Hamilton";26;01:38.446
+"Brazilian Grand Prix";"2019-11-17";2019;"Hamilton";46;01:11.082
+"Brazilian Grand Prix";"2019-11-17";2019;"Bottas";43;01:10.698
+"Abu Dhabi Grand Prix";"2019-12-01";2019;"Hamilton";53;01:39.283
+"Abu Dhabi Grand Prix";"2019-12-01";2019;"Bottas";31;01:39.715
