@@ -7,7 +7,7 @@ Using a dataset that contains statistics from the entire history of Formula 1, I
 I also uploaded the slides that I used when I presented this project, so you can see the original GAV mappings and how they translated in the project itself.
 
 
-<Neo4j Portion:</b><br/>
+<b>Neo4j Portion:</b><br/>
 Once integrated the data, I uploaded the results to a Neo4j Graph Database, in order to be able to make queries that are easy to write and understand thanks to its internal Cypher language. I didn't upload the database to GitHub because it weighted a little too much, but if you want to replicate that, you can follow the commands I used in my presentation. Just place the contents of "BigData" inside the "Talend" folder in the "import" folder of your local Neo4j database.
 
 
